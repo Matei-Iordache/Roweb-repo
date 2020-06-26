@@ -22,7 +22,7 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 </pre>
 
 ```markdown
-<b>My top 3 resources when learning something IT related</b>
+**My top 3 resources when learning something IT related**
 1. Forums such as StackOverflow
 2. Sites like Youtube, Udemy, Skillshare, Coursera
 3. Different books (ex.: Introduction to algorithms 3rd edition)
