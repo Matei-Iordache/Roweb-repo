@@ -6,10 +6,10 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 
 ### Education
 
-1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; September 2016 - May 2019
+1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 - May 2019
   * Department of Mathemathics and Computer Science
 2. University Politechnica of Bucharest
-  * Faculty of Automatic Control and Computers &emsp;&emsp;September 2019 - Present
+  * Faculty of Automatic Control and Computers &emsp;&emsp; &emsp;September 2019 - Present
   * Pursuing a degree in computer science
 
 ### Technical Strengths
@@ -22,19 +22,8 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 </pre>
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<b>My top 3 resources when learning something IT related</b>
+1. Forums such as StackOverflow
+2. Sites like Youtube, Udemy, Skillshare, Coursera
+3. Different books (ex.: Introduction to algorithms 3rd edition)
 ```
