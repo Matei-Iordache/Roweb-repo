@@ -9,16 +9,16 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; September 2016 - May 2019
   * Department of Mathemathics and Computer Science
 2. University Politechnica of Bucharest
-  * Faculty of Automatic Control and Computers &emsp; &emsp; September 2019 - Present
+  * Faculty of Automatic Control and Computers &emsp;&emsp;September 2019 - Present
   * Pursuing a degree in computer science
 
 ### Technical Strengths
 
 <pre>
-**Programming languages**    C, HTML/CSS, Javascript
-**Scripting**                Bash
-**Software and tools**       Cisco Packet Tracer, Virtual Box
-**Operating Systems**        Windows, Linux
+<b>Programming languages</b>    C, HTML/CSS, Javascript
+<b>Scripting</b>                Bash
+<b>Software and tools</b>       Cisco Packet Tracer, Virtual Box
+<b>Operating Systems</b>        Windows, Linux
 </pre>
 
 ```markdown
