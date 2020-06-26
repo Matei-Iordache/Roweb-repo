@@ -1,13 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my page
 
-You can use the [editor on GitHub](https://github.com/Matei-Iordache/Roweb-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Here is the link to [my Github repository](https://github.com/Matei-Iordache/Roweb-repo/edit/master) for the Roweb challenge.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Here is a rewritten part of my resume
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+1. National College "Mihai Viteazul" Ploiesti         September 2016 - May 2019
+  * Department of Mathemathics and Computer Science
+2. University Politechnica of Bucharest
+  * Faculty of Automatic Control and Computers       September 2019 - Present
+  * Pursuing a degree in computer science
 ```markdown
 Syntax highlighted code block
 
