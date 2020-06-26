@@ -6,11 +6,21 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 
 ### Education
 
-1. National College "Mihai Viteazul" Ploiesti         September 2016 - May 2019
+1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; September 2016 - May 2019
   * Department of Mathemathics and Computer Science
 2. University Politechnica of Bucharest
-  * Faculty of Automatic Control and Computers       September 2019 - Present
+  * Faculty of Automatic Control and Computers &emsp; &emsp; September 2019 - Present
   * Pursuing a degree in computer science
+
+### Technical Strengths
+
+<pre>
+**Programming languages**    C, HTML/CSS, Javascript
+**Scripting**                Bash
+**Software and tools**       Cisco Packet Tracer, Virtual Box
+**Operating Systems**        Windows, Linux
+</pre>
+
 ```markdown
 Syntax highlighted code block
 
@@ -28,13 +38,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Matei-Iordache/Roweb-repo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
