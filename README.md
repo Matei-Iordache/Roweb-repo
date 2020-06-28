@@ -24,7 +24,7 @@
 3. Different books (ex.: Introduction to algorithms 3rd edition)
 ```
 ### Personal Traits
-1. Ability to work as an individual as well as in group.
+1. Ability to work as an individual as well as in a group.
 2. A big passion for videogames and videogame culture.
 3. Highly motivated and eager to learn new things.
 
