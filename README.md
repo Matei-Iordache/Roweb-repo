@@ -27,3 +27,10 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 2. Sites like Youtube, Udemy, Skillshare, Coursera
 3. Different books (ex.: Introduction to algorithms 3rd edition)
 ```
+### The script for the devops challenge
+Here is the [script](https://github.com/Matei-Iordache/Roweb-repo/blob/master/script.sh) that checks if a local repository is synchronized with it's remote repository.
+#### Short tutorial on how to use the script
+1. Place the script in the desired folder.
+2. Give it file permission to run.
+3. Run the script with the "./script.sh" command in the command line.
+4. Profit !?
