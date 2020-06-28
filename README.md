@@ -1,7 +1,3 @@
-## Welcome to my page
-
-Here is the link to [my Github repository](https://github.com/Matei-Iordache/Roweb-repo/edit/master) for the Roweb challenge.
-
 ## Here is a rewritten part of my resume
 
 ### Education
