@@ -6,7 +6,7 @@ Here is the link to [my Github repository](https://github.com/Matei-Iordache/Row
 
 ### Education
 
-1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; &emsp; &emsp; &emsp; September 2016 - May 2019
+1. National College "Mihai Viteazul" Ploiesti &emsp; &emsp; &emsp; &emsp; &emsp; September 2015 - May 2019
   * Department of Mathemathics and Computer Science
 2. University Politechnica of Bucharest
   * Faculty of Automatic Control and Computers &emsp;&emsp; &emsp;September 2019 - Present
